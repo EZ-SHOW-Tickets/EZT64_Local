@@ -12,7 +12,7 @@ session("PersonID")=empty
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <meta name="GENERATOR" content="Microsoft FrontPage 5.0">
 <meta name="ProgId" content="FrontPage.Editor.Document">
-<title>EZ-SHOW-TICKETS.com v3</title>
+<title>EZ-SHOW-TICKETS.com v4</title>
 <script language="JavaScript">
 <!--
 function SubmitAccount(){
