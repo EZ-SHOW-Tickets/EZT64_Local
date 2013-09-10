@@ -66,7 +66,7 @@ strSQL = strSQL & "VALUES (" & _
 dim m_strDB_Connection
 
 ''m_strDB_Connection = "DRIVER={SQL Server};SERVER=129.47.1.162;DATABASE=EZT;UID=EZTicketing;PWD=ezt0023"
-m_strDB_Connection = "DRIVER={SQL Server};SERVER=207.171.1.162;DATABASE=EZT;UID=EZTicketing;PWD=ezt0023"
+m_strDB_Connection = "DRIVER={SQL Server};SERVER=54.241.244.28;DATABASE=EZT;UID=EZTicketing;PWD=ezt0023"
 
 '// call insert
 InsertRecord(strSQL)

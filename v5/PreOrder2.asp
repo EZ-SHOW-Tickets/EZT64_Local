@@ -1,10 +1,10 @@
 <% 
 	
-	if now() < cdate("8/16/2013") then
+	if now() < cdate("9/29/2013") then
 			session("Admin")=0
 			session("AccountID")=5
 			session("lSessionID")=session.SessionID
-			Response.Redirect "selectPerformance.asp?ShowID=1927"
+			Response.Redirect "selectPerformance.asp?ShowID=1949"
 	end if
 
 %>
